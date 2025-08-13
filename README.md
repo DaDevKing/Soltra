@@ -1,7 +1,7 @@
-<img src="readme/logo.png" alt="" align="center" width="225" height="150"><h1 align="center">Soltra - Shoffeitt Solutions</h1>
+<img src="Soltra_logo.png" alt="" align="center" width="225" height="150"><h1 align="center">Soltra - Shoffeitt Solutions</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
-<img src="readme/present.png" alt="" align="center" width="auto" height="auto">
+<img src="SoltraPresent.png" alt="" align="center" width="auto" height="auto">
 
 ## Project Description
 
