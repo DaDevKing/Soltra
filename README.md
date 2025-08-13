@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Soltra_logo.png" alt="Soltra Logo" width="225" height="150">
+  <img src="Soltra_logo2.png" alt="Soltra Logo" width="225" height="150">
 </p>
 
 <h1 align="center">Soltra - Shoffeitt Solutions</h1>
